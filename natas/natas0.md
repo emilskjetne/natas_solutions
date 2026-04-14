@@ -1,4 +1,4 @@
-Natas 0
+Natas 00
 ===============
 
 solution
